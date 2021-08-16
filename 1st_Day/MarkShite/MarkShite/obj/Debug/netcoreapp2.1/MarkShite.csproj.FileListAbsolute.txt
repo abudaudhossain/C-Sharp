@@ -1,0 +1,11 @@
+F:\C#\1st_Day\MarkShite\MarkShite\obj\Debug\netcoreapp2.1\MarkShite.csprojAssemblyReference.cache
+F:\C#\1st_Day\MarkShite\MarkShite\obj\Debug\netcoreapp2.1\MarkShite.csproj.CoreCompileInputs.cache
+F:\C#\1st_Day\MarkShite\MarkShite\obj\Debug\netcoreapp2.1\MarkShite.AssemblyInfoInputs.cache
+F:\C#\1st_Day\MarkShite\MarkShite\obj\Debug\netcoreapp2.1\MarkShite.AssemblyInfo.cs
+F:\C#\1st_Day\MarkShite\MarkShite\bin\Debug\netcoreapp2.1\MarkShite.deps.json
+F:\C#\1st_Day\MarkShite\MarkShite\bin\Debug\netcoreapp2.1\MarkShite.runtimeconfig.json
+F:\C#\1st_Day\MarkShite\MarkShite\bin\Debug\netcoreapp2.1\MarkShite.runtimeconfig.dev.json
+F:\C#\1st_Day\MarkShite\MarkShite\bin\Debug\netcoreapp2.1\MarkShite.dll
+F:\C#\1st_Day\MarkShite\MarkShite\bin\Debug\netcoreapp2.1\MarkShite.pdb
+F:\C#\1st_Day\MarkShite\MarkShite\obj\Debug\netcoreapp2.1\MarkShite.dll
+F:\C#\1st_Day\MarkShite\MarkShite\obj\Debug\netcoreapp2.1\MarkShite.pdb

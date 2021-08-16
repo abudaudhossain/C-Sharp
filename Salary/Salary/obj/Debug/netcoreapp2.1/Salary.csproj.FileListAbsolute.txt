@@ -1,0 +1,11 @@
+F:\C#\Salary\Salary\bin\Debug\netcoreapp2.1\Salary.deps.json
+F:\C#\Salary\Salary\bin\Debug\netcoreapp2.1\Salary.runtimeconfig.json
+F:\C#\Salary\Salary\bin\Debug\netcoreapp2.1\Salary.runtimeconfig.dev.json
+F:\C#\Salary\Salary\bin\Debug\netcoreapp2.1\Salary.dll
+F:\C#\Salary\Salary\bin\Debug\netcoreapp2.1\Salary.pdb
+F:\C#\Salary\Salary\obj\Debug\netcoreapp2.1\Salary.csprojAssemblyReference.cache
+F:\C#\Salary\Salary\obj\Debug\netcoreapp2.1\Salary.csproj.CoreCompileInputs.cache
+F:\C#\Salary\Salary\obj\Debug\netcoreapp2.1\Salary.AssemblyInfoInputs.cache
+F:\C#\Salary\Salary\obj\Debug\netcoreapp2.1\Salary.AssemblyInfo.cs
+F:\C#\Salary\Salary\obj\Debug\netcoreapp2.1\Salary.dll
+F:\C#\Salary\Salary\obj\Debug\netcoreapp2.1\Salary.pdb

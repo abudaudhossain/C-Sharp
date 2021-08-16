@@ -1,0 +1,11 @@
+F:\C#\1st_Day\Largest\Largest\obj\Debug\netcoreapp2.1\Largest.csprojAssemblyReference.cache
+F:\C#\1st_Day\Largest\Largest\obj\Debug\netcoreapp2.1\Largest.csproj.CoreCompileInputs.cache
+F:\C#\1st_Day\Largest\Largest\obj\Debug\netcoreapp2.1\Largest.AssemblyInfoInputs.cache
+F:\C#\1st_Day\Largest\Largest\obj\Debug\netcoreapp2.1\Largest.AssemblyInfo.cs
+F:\C#\1st_Day\Largest\Largest\bin\Debug\netcoreapp2.1\Largest.deps.json
+F:\C#\1st_Day\Largest\Largest\bin\Debug\netcoreapp2.1\Largest.runtimeconfig.json
+F:\C#\1st_Day\Largest\Largest\bin\Debug\netcoreapp2.1\Largest.runtimeconfig.dev.json
+F:\C#\1st_Day\Largest\Largest\bin\Debug\netcoreapp2.1\Largest.dll
+F:\C#\1st_Day\Largest\Largest\bin\Debug\netcoreapp2.1\Largest.pdb
+F:\C#\1st_Day\Largest\Largest\obj\Debug\netcoreapp2.1\Largest.dll
+F:\C#\1st_Day\Largest\Largest\obj\Debug\netcoreapp2.1\Largest.pdb

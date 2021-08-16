@@ -1,0 +1,18 @@
+using System;
+namespace Url
+{
+   public class Program
+    {
+        public static void Main(string[] args)
+        {
+             double A,R, n;
+            R = 2.00;
+            R = Math.Pow(R,2);
+            n = 3.14159;
+            A = n * R;
+            Console.WriteLine("A = {0}",A);
+            Console.ReadKey();
+                  
+        }
+    }
+}
